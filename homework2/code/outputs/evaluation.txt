@@ -1,0 +1,4 @@
+Adjusted Mutual Information score between K=5 and labels: 0.0384006232632
+Adjusted Mutual Information score between K=10 and labels: 0.0500696283786
+Adjusted Mutual Information score between K=20 and labels: 0.056495060078
+Adjusted Mutual Information score between K=30 and labels: 0.0553251081322
