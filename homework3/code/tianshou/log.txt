@@ -1,0 +1,303 @@
+Step 0, elapsed time: 0.0 min
+Mean return: 9.556329665979597
+Mean undiscounted return: 10.0
+
+Step 1000, elapsed time: 0.4 min
+Mean return: 54.54730712790966
+Mean undiscounted return: 79.6
+
+Step 2000, elapsed time: 0.8 min
+Mean return: 64.80317201426564
+Mean undiscounted return: 104.2
+
+Step 3000, elapsed time: 1.1 min
+Mean return: 85.7186967625854
+Mean undiscounted return: 194.0
+
+Step 4000, elapsed time: 1.5 min
+Mean return: 80.13916769776534
+Mean undiscounted return: 161.2
+
+Step 5000, elapsed time: 1.9 min
+Mean return: 74.80283598704027
+Mean undiscounted return: 137.2
+
+Step 6000, elapsed time: 2.3 min
+Mean return: 84.17849844309589
+Mean undiscounted return: 183.8
+
+Step 7000, elapsed time: 2.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 8000, elapsed time: 3.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 9000, elapsed time: 3.3 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 10000, elapsed time: 3.6 min
+Mean return: 67.02175439460042
+Mean undiscounted return: 110.4
+
+Step 11000, elapsed time: 3.9 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 12000, elapsed time: 4.2 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 13000, elapsed time: 4.6 min
+Mean return: 82.41603688620721
+Mean undiscounted return: 173.0
+
+Step 14000, elapsed time: 4.9 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 15000, elapsed time: 5.2 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 16000, elapsed time: 5.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 17000, elapsed time: 5.9 min
+Mean return: 74.69969385634172
+Mean undiscounted return: 136.8
+
+Step 18000, elapsed time: 6.3 min
+Mean return: 75.69607371049601
+Mean undiscounted return: 140.8
+
+Step 19000, elapsed time: 6.6 min
+Mean return: 77.0331299176996
+Mean undiscounted return: 151.2
+
+Step 20000, elapsed time: 7.0 min
+Mean return: 75.19513805084746
+Mean undiscounted return: 138.8
+
+Step 21000, elapsed time: 7.3 min
+Mean return: 71.70695062254084
+Mean undiscounted return: 125.8
+
+Step 22000, elapsed time: 7.6 min
+Mean return: 77.40108528967673
+Mean undiscounted return: 148.0
+
+Step 23000, elapsed time: 7.9 min
+Mean return: 79.16390031339995
+Mean undiscounted return: 156.2
+
+Step 24000, elapsed time: 8.2 min
+Mean return: 86.5749659132223
+Mean undiscounted return: 199.8
+
+Step 25000, elapsed time: 8.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 26000, elapsed time: 8.9 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 27000, elapsed time: 9.2 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 28000, elapsed time: 9.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 29000, elapsed time: 9.9 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 30000, elapsed time: 10.2 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 31000, elapsed time: 10.5 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 32000, elapsed time: 10.8 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 33000, elapsed time: 11.2 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 34000, elapsed time: 11.5 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 35000, elapsed time: 11.8 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 36000, elapsed time: 12.1 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 37000, elapsed time: 12.4 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 38000, elapsed time: 12.7 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 39000, elapsed time: 13.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 40000, elapsed time: 13.3 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 41000, elapsed time: 13.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 42000, elapsed time: 13.9 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 43000, elapsed time: 14.2 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 44000, elapsed time: 14.5 min
+Mean return: 78.87481555835681
+Mean undiscounted return: 173.0
+
+Step 45000, elapsed time: 14.8 min
+Mean return: 57.50813373256368
+Mean undiscounted return: 85.2
+
+Step 46000, elapsed time: 15.1 min
+Mean return: 81.32682677656966
+Mean undiscounted return: 167.0
+
+Step 47000, elapsed time: 15.4 min
+Mean return: 76.25897643398305
+Mean undiscounted return: 143.2
+
+Step 48000, elapsed time: 15.8 min
+Mean return: 78.64297232363491
+Mean undiscounted return: 154.0
+
+Step 49000, elapsed time: 16.1 min
+Mean return: 80.70911934708586
+Mean undiscounted return: 165.8
+
+Step 50000, elapsed time: 16.4 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 51000, elapsed time: 16.7 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 52000, elapsed time: 17.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 53000, elapsed time: 17.3 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 54000, elapsed time: 17.6 min
+Mean return: 86.37768788704729
+Mean undiscounted return: 198.4
+
+Step 55000, elapsed time: 18.0 min
+Mean return: 64.74085080316834
+Mean undiscounted return: 103.8
+
+Step 56000, elapsed time: 18.3 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 57000, elapsed time: 18.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 58000, elapsed time: 18.9 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 59000, elapsed time: 19.4 min
+Mean return: 74.50741386874451
+Mean undiscounted return: 136.2
+
+Step 60000, elapsed time: 19.8 min
+Mean return: 77.69508958606471
+Mean undiscounted return: 152.0
+
+Step 61000, elapsed time: 20.1 min
+Mean return: 86.1389644246473
+Mean undiscounted return: 196.8
+
+Step 62000, elapsed time: 20.4 min
+Mean return: 72.91038350553555
+Mean undiscounted return: 130.0
+
+Step 63000, elapsed time: 20.7 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 64000, elapsed time: 21.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 65000, elapsed time: 21.3 min
+Mean return: 66.48533933587639
+Mean undiscounted return: 108.8
+
+Step 66000, elapsed time: 21.8 min
+Mean return: 70.96618007839047
+Mean undiscounted return: 128.4
+
+Step 67000, elapsed time: 22.2 min
+Mean return: 66.35352026782047
+Mean undiscounted return: 108.4
+
+Step 68000, elapsed time: 22.7 min
+Mean return: 55.71918867365495
+Mean undiscounted return: 87.8
+
+Step 69000, elapsed time: 23.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 70000, elapsed time: 23.3 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 71000, elapsed time: 23.7 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 72000, elapsed time: 24.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 73000, elapsed time: 24.3 min
+Mean return: 79.35218210243589
+Mean undiscounted return: 157.0
+
+Step 74000, elapsed time: 24.6 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+
+Step 75000, elapsed time: 25.0 min
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
